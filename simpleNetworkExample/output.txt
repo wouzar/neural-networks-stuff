@@ -1,0 +1,6 @@
+W1: 0.113859
+W2: 1.30711
+0 calculated value: 0.500000 expected value: 0.000000
+1 calculated value: 0.528434 expected value: 0.400000
+2 calculated value: 0.787029 expected value: 0.600000
+3 calculated value: 0.805491 expected value: 1.000000
